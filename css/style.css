@@ -1,0 +1,100 @@
+body{
+    background-color: #fafafa;
+}
+img{
+    margin-left: 400px;
+    margin-right: 200px;
+    margin-top: 10px;
+}
+.globe{
+    border: 1px solid #8e8e8e;
+    position: relative;
+    height: 350px;
+    width: 350px;
+    margin-left: 830px;
+    margin-right: 400px;
+    margin-top: -570px;
+    background-color: white;
+}
+.globe2{
+    border: 1px solid #8e8e8e;
+    position: relative;
+    height: 50px;
+    width: 350px;
+    margin-left: 830px;
+    margin-right: 400px;
+    top: 10px;
+    background-color: white;
+}
+.insta{
+    position: relative;
+    left:-335px;
+}
+form{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+input{
+    position: relative;
+    width: 250px;
+    height: 35px;
+}
+.tab-1{
+    position: relative;
+    top: 20px;
+}
+p{
+    position: relative;
+    text-align: center;
+}
+button{
+    position: relative;
+    top: 40px;
+    width: 260px;
+    height: 30px;
+    color: white;
+    background-color:#0095f6;
+    opacity: 30.0%;
+}
+.tré{
+    position: relative;
+    left: -405px;
+    top: 60px;
+}
+.facebook{
+    position: relative;
+    left: -370px;
+    top: 40px;
+}
+a{
+    text-decoration: none;
+ }
+ .app{
+     position: relative;
+     left: 459px;
+     top: 20px;
+ }
+ .tele{
+     position: relative;
+     left: 195px;
+     top: 15px;
+ }
+ body {
+    overflow-x: hidden; 
+ }
+ footer ul li{
+    list-style-type: none;
+    display: inline; 
+    position: relative; 
+    left: 450px;
+    top: 70px;
+  }
+  footer ul li a{
+      color:#8e8e8e ;
+      word-spacing: 5px;
+      font-size: 14px;
+  }
+  .der{
+      position: relative;
+      left: 180px;
+  }
